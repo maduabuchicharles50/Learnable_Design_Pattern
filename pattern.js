@@ -51,8 +51,8 @@ const telephone = new Telephone();
 const cj = new Observer("cj");
 const kings = new Observer("kings");
 
-let numberOne = 23407023232;
-let numberTwo = 2340904532;
+let numberOne = 2347022232679;
+let numberTwo = 2347023232;
 
 telephone.addPhoneNumber(numberOne);
 
